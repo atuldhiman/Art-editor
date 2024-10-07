@@ -1,6 +1,7 @@
 # Art-editor
 An Art editor developed in go lang.
 
-###Run application
-cd artEditor
+### Run application
+```
 go run -v ./artEditor
+```
